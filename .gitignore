@@ -1,0 +1,35 @@
+# === Ignore common data file types ===
+*.vcf
+*.vcf.gz
+*.tsv
+*.csv
+*.txt
+*.rds
+*.rdata
+*.RData
+*.json
+*.zip
+*.gz
+*.tar
+*.bam
+*.bai
+*.fa
+*.fasta
+*.gff
+*.gff3
+*.log
+*.xlsx
+*.xls
+
+# === Ignore RStudio and system files ===
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.DS_Store
+
+# === Ignore folders containing private data ===
+data/
+datasets/
+raw_data/
+
