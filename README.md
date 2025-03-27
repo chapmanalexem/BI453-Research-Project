@@ -1,2 +1,5 @@
 # BI453-Research-Project
 Code for BI453 final-year project "Inference of Evolutionary Selection Pressure acting on Rare Genomic Variants from Derived Allele Frequency Spectra in the UK Biobank"
+
+
+This project aims to investigate evolutionary selection pressures acting on rare genomic variants by analyzing DAF spectra using data from the UKB. By utilizing Ensembl’s VEP for functional annotation and by analyzing their frequency patterns, this research seeks to identify signals of purifying selection. This study examined selection pressure across different functional variant types including missense, synonymous and stop-gained mutations and compared patterns across different genomic regions. The dN/dS ratios from Mouse and Macaque orthologs were used as a validation metric to confirm that an excess of low-frequency derived alleles provides evidence of purifying selection. Statistical analyses were also conducted to determine significant trends and associations between rare allele frequencies and their functional impacts.
